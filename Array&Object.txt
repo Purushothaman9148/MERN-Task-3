@@ -1,0 +1,20 @@
+For the given JSON iterate over all for loops(for,for in, for of, for each)
+
+
+1) For
+
+for (let i = 0; i < arr.length; ++i)
+{
+
+}
+
+2) forEach
+
+arr.forEach((v, i) => { /* ... */ })
+
+3) for in
+
+for (let i in arr)
+
+4) for of
+for (const v of arr)

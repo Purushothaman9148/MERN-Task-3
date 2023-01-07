@@ -1,0 +1,6 @@
+[{
+    "Name":"Purushothaman",
+    "Phone":"9876543210",
+    "Education":"B.sc",
+    "Occupation":"UI Dev",
+}]
